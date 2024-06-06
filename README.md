@@ -2,10 +2,10 @@
 
 This repository contains a CUDA implementation of AES128 in CBC mode. It includes a stress test to measure the encryption and decryption performance and a test file to compare the CUDA implementation against OpenSSL's implementation.
 
-Without any additional modifications/actions I got the following specs for a RTX2070
+Without any additional modifications/actions I got the following specs for a RTX2070:
 
-Encryption hashes per second: 1.0229e+12 hashes/s
-Decryption hashes per second: 1.0081e+12 hashes/s
+- Encryption hashes per second: 1.0229e+12 hashes/s
+- Decryption hashes per second: 1.0081e+12 hashes/s
 
 PS! Keep in mind that any extra functions will slow down the process significantly.
 
