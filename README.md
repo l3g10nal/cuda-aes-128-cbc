@@ -20,7 +20,6 @@ ETH Donations welcome - 0x251a005aafd071aF6bD86F317840E5D8BBdAe402
 - `test_against_host.cu`: Compares CUDA AES128 implementation with OpenSSL's implementation.
 - `stress_test_cuda.cu`: Stress test to measure encryption and decryption speeds.
 - `compile_stress_test.bat`: Windows batch script to compile the stress test.
-- `compile_test_against_host.bat`: Windows batch script to compile the host test.
 - `unix_build.sh`: Unix shell script to compile and link the files.
 
 ## Prerequisites
